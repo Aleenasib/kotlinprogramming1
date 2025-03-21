@@ -1,21 +1,11 @@
-# Notification Summary Program
+# Kotlin Programming Questions
 
-## Description
-This program displays a summary message for notifications:
-- Shows the exact number of notifications if they are fewer than 100.
-- Displays "99+" for 100 or more notifications.
+## Overview
+This repository contains a curated collection of Kotlin programming questions and solutions to help developers improve their Kotlin skills. It serves as a valuable resource for learning and practicing Kotlin, ranging from beginner-level concepts to advanced topics.
 
 ## Features
-- Simple and intuitive logic.
-- Handles notification limits dynamically.
-
-## How to Use
-1. Clone this repository to your local machine.
-2. Run the script in your preferred development environment.
-3. Input the number of notifications to see the summary.
-
-## Example Output
-- Input: 45 → Output: "You have 45 notifications."
-- Input: 100 → Output: "You have 99+ notifications."
-
-Feel free to contribute or suggest improvements!
+- A variety of questions covering core Kotlin concepts, such as:
+  - Control Flow (`if`, `when`, loops, etc.)
+  - Functions and Lambdas
+  - Object-Oriented Programming (Classes, Objects, Inheritance, etc.)
+  
